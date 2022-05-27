@@ -8,4 +8,4 @@ A demo made in 2010 for a game that was never finished. You are Kuros, a Dolphin
 
 This is a live version of the repo. Requires a keyboard to play.
 
-# [View On Youtube](https://www.youtube.com/watch?v=b2N1JMA2eWQ)
+# [Watch Preview On YouTube](https://www.youtube.com/watch?v=b2N1JMA2eWQ)
